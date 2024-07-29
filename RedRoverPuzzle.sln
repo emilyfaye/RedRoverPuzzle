@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedRoverPuzzle.App", "RedRoverPuzzle.App\RedRoverPuzzle.App.csproj", "{98E3215E-6B56-41AF-A582-0F0F89290BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedRoverPuzzle.Tests", "RedRoverPuzzle.Tests\RedRoverPuzzle.Tests.csproj", "{F2A9E00B-6ABF-44F5-93C9-73D958255DF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98E3215E-6B56-41AF-A582-0F0F89290BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E3215E-6B56-41AF-A582-0F0F89290BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E3215E-6B56-41AF-A582-0F0F89290BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E3215E-6B56-41AF-A582-0F0F89290BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A9E00B-6ABF-44F5-93C9-73D958255DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A9E00B-6ABF-44F5-93C9-73D958255DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A9E00B-6ABF-44F5-93C9-73D958255DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A9E00B-6ABF-44F5-93C9-73D958255DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEBCB82A-ACE7-454A-B116-87E9F79314F5}
+	EndGlobalSection
+EndGlobal
